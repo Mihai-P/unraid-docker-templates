@@ -104,7 +104,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-  <WebUI>http://[IP]:[PORT:8112]/</WebUI>
+  <WebUI>http://[IP]:[PORT:9091]/</WebUI>
   <Banner>https://raw.githubusercontent.com/activ/docker-templates/master/activ/images/transmission-banner.jpg</Banner>
   <Icon>https://raw.githubusercontent.com/activ/docker-templates/master/activ/images/transmission-icon.png</Icon>
   <ExtraParams></ExtraParams>
