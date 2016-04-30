@@ -32,11 +32,6 @@
         <Protocol>tcp</Protocol>
       </Port>
       <Port>
-        <HostPort>58846</HostPort>
-        <ContainerPort>58846</ContainerPort>
-        <Protocol>tcp</Protocol>
-      </Port>
-      <Port>
         <HostPort>8118</HostPort>
         <ContainerPort>8118</ContainerPort>
         <Protocol>tcp</Protocol>
