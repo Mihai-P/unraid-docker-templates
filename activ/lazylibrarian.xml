@@ -46,8 +46,13 @@
       <Mode>rw</Mode>
     </Volume>
     <Volume>
-      <HostDir>path for downloads</HostDir>
-      <ContainerDir>/data</ContainerDir>
+      <HostDir>path to downloads</HostDir>
+      <ContainerDir>/downloads</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+    <Volume>
+      <HostDir>path for books</HostDir>
+      <ContainerDir>/books</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
   </Data>
