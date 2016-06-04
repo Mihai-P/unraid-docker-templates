@@ -11,7 +11,7 @@
   FlexGet is a multipurpose automation tool for content like torrents, nzbs, podcasts, comics, series, movies, etc. It can use different kinds of sources like RSS-feeds, html pages, csv files, search engines and there are even plugins for sites that do not provide any kind of useful feeds. [br]
  	The default port used is 3539 for the web interface. [br]
   </Overview>
-  <Support>http://</Support>
+  <Support>http://lime-technology.com/forum/index.php?topic=49545.0</Support>
   <Registry>https://registry.hub.docker.com/u/activ/arch-flexget/</Registry>
   <GitHub>https://github.com/activ/arch-flexget</GitHub>
   <Repository>activ/arch-flexget</Repository>

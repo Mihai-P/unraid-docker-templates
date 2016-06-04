@@ -17,7 +17,7 @@
     Transmission is a full-featured ​BitTorrent client for Linux, OS X, Unix and Windows. [br]
     This Docker includes OpenVPN to ensure a secure and private connection to the Internet, including use of iptables to prevent IP leakage when the tunnel is down. It also includes Privoxy to allow unfiltered access to index sites, to use Privoxy please point your application at "host ip:8118"
   </Overview>
-  <Support>http://</Support>
+  <Support>http://lime-technology.com/forum/index.php?topic=48899.0</Support>
   <Registry>https://registry.hub.docker.com/u/activ/arch-transmissionvpn/</Registry>
   <GitHub>https://github.com/activ/arch-transmissionvpn</GitHub>
   <Repository>activ/arch-transmissionvpn</Repository>
